@@ -1,1 +1,1 @@
-#### Aportes ###
+from abc import ABC, abstractmethod
