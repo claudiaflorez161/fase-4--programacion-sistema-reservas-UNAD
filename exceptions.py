@@ -1,28 +1,29 @@
 # ============================================================
-# SISTEMA DE CONTROL DE DISPOSITIVOS INTELIGENTES- EJERCISIO 5 
-# Fase 3 - Modelos de herencia y polimorfismo y gestion de metodos 
-# Curso: Programación - UNAD
+# INFORMACION DEL COMPONENTE PRACTICO  Ejercicio 1
+# Fase 4 Componente Práctico-Practicas Simuladas Sistema de Gestion de clienetes, Servicios y Reservas 
+# Curso: Programación - UNAD 213023_280
 # Autor: William Beltrán
+# Claudia Lorena Franco
+# Farid Camilo Buitrago
 # ============================================================
 
 # ============================================
 # NATIONAL OPEN AND DISTANCE UNIVERSITY (UNAD)
 # COURSE: PROGRAMMING
-# ACTIVITY: PHASE 3 - OOP
-# STUDENT: [YOUR NAME]
+# ACTIVITY: PHASE 4 - OOP
+# STUDENT: William Beltrán
+# Claudia Lorena Franco
+# Farid Camilo Buitrago
 # ============================================
 
-# This program implements a Smart Device Control System using
-# Object-Oriented Programming (OOP) principles.
-#
+# Practical Exercise - Simulated Practices: Customer, Service, and Reservation Management System
+# Course: Programming - UNAD 213023_280
+# Author: William Beltrán
+# Claudia Lorena Franco
+# Farid Camilo Buitrago
 # Concepts applied:
-# - Inheritance
-# - Polymorphism
-# - Method Overloading (simulated with optional parameters)
-# - Encapsulation
-#
-# A graphical user interface (GUI) is also implemented using Tkinter,
-# allowing user interaction with the system.
+# including custom exceptions, use of try/except, try/except/else, try/except/finally blocks, and exception chaining.
+
 
 import tkinter as tk
 
